@@ -35,6 +35,7 @@
     "localhost",
     "*.localhost",
     "*.dev",
-    "credex.coinexgateway.com"
+    "credex.coinexgateway.com",
+    "*"
   ]
 }
